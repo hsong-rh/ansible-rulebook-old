@@ -15,6 +15,7 @@
 - Checking of controller url and token at startup
 - rule_uuid and ruleset_uuid provided even when an action fails
 - Drools intermittently misses firing of rules
+- Disconnected websocket misses firing of rules
 
 ### Removed
 
